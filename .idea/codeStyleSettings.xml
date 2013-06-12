@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectCodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value>
+        <option name="OTHER_INDENT_OPTIONS">
+          <value>
+            <option name="INDENT_SIZE" value="4" />
+            <option name="CONTINUATION_INDENT_SIZE" value="8" />
+            <option name="TAB_SIZE" value="8" />
+            <option name="USE_TAB_CHARACTER" value="false" />
+            <option name="SMART_TABS" value="false" />
+            <option name="LABEL_INDENT_SIZE" value="0" />
+            <option name="LABEL_INDENT_ABSOLUTE" value="false" />
+            <option name="USE_RELATIVE_INDENTS" value="false" />
+          </value>
+        </option>
+        <option name="LINE_SEPARATOR" value="&#10;" />
+        <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999999" />
+        <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999999" />
+        <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+          <value />
+        </option>
+        <option name="JSP_PREFER_COMMA_SEPARATED_IMPORT_LIST" value="true" />
+        <XML>
+          <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+        </XML>
+        <codeStyleSettings language="JAVA">
+          <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+          <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+          <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
+          <indentOptions>
+            <option name="TAB_SIZE" value="8" />
+          </indentOptions>
+        </codeStyleSettings>
+      </value>
+    </option>
+    <option name="USE_PER_PROJECT_SETTINGS" value="true" />
+  </component>
+</project>
+

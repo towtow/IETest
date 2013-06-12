@@ -1,0 +1,6 @@
+#wrapper {
+    width: 600px;
+    height: 400px;
+    background-color: yellow;
+    overflow: scroll;
+}
